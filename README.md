@@ -144,4 +144,4 @@ fuzzy-logic-eval/
 
 ---
 
-_Built with ❤️ by [Your Name]_
+_Built with ❤️ by Anubhav Raj Singh
